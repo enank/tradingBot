@@ -1,0 +1,2 @@
+# tradingBot
+Algorithm stock trading
